@@ -29,9 +29,9 @@ Após clonar o repositório abra o prompt de comando no arquivo e execute os seg
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout1.PNG)
-![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout2.PNG)
-![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout3.PNG)
+![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout1.PNG)
+![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout2.PNG)
+![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout3.PNG)
 
 
 ### Aprendizados:
