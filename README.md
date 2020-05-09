@@ -8,7 +8,7 @@
  <a href="#:zap:executando">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Créditos</a>
+  <a href="#creditos">Créditos</a>
 </p>
 
 <br>
@@ -29,9 +29,9 @@ Após clonar o repositório abra o prompt de comando no arquivo e execute os seg
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout1.PNG)
-![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout2.PNG)
-![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout3.PNG)
+![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout1.png)
+![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout2.png)
+![Layout do projeto](https://github.com/ChristySchott/toDo-react-native/blob/master/layout/layout3.png)
 
 
 ### Aprendizados:
